@@ -13,9 +13,9 @@ no clue atm
 Explain how your project works
 
 ## How to test
-
+sdfsdf
 Explain how to use your project
 
 ## External hardware
-
+sdfsdaf
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
